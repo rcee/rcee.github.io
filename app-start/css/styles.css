@@ -14,8 +14,7 @@ a {color: #249EC3; text-decoration: none;}
 .facebook {width: 100%;}
 
 @media all and (max-width:600px) and (min-width:220px) {
-  header {width: 90%; margin: 0 auto; text-align: center;}
-  header img {margin: 80px auto 30px auto;}
+  header {width: 90%; margin: 80px auto 30px auto; text-align: center; background: pink;}
   ul {width: 90%; margin: 0 auto 30px auto;}
   li {margin: 0 0 16px 0;}
   .sign-in-up {margin: 0 auto; width: 100%;}
