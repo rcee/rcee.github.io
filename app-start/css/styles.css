@@ -14,8 +14,8 @@ input {font: 16px/1.3em 'Lato'; color: #ccc; appearance: none; outline: none; bo
 .divider {background: url("/app-start/img/bg-hr.png") repeat-x; width: 100%; text-align: center; margin: 20px 0; font-weight: 300;}
 .divider span {background: #fff; padding: 0 4px;}
 .facebook {width: 100%;}
-.narrow {text-align: center; background: gray; margin: 0 20px;}
-.inactive {-moz-opacity: 50; opacity: 50;}
+.narrow {text-align: center; margin: 0 20px;}
+.inactive {opacity: 0.5; filter: alpha(opacity=50);}
 
 @media all and (max-width:600px) and (min-width:220px) {
   header {width: 90%; margin: 80px auto 30px auto; text-align: center; font-size: 34px; font-weight: 300;}
