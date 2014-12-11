@@ -16,6 +16,7 @@ input {font: 16px/1.3em 'Lato'; color: #ccc; appearance: none; outline: none; bo
 .facebook {width: 100%;}
 .narrow {text-align: center; margin: -20px 20px 0 20px;}
 .inactive {opacity: 0.5; filter: alpha(opacity=50);}
+.fixer {width: 80%; margin: 50px auto 0 auto;}
 
 @media all and (max-width:600px) and (min-width:220px) {
   header {width: 90%; margin: 80px auto 30px auto; text-align: center; font-size: 34px; font-weight: 300;}
@@ -27,7 +28,7 @@ input {font: 16px/1.3em 'Lato'; color: #ccc; appearance: none; outline: none; bo
   .form {margin: 0 auto; width: 80%;}
   .forgot {margin: -0 0 40px 0;}
   .toggle {margin: 60px 0 0 0;}
-  .stick-it {position: fixed; bottom: 0; width: 100%; height: 150px; background: url("/app-start/img/gradient.png") repeat-x;}
+  .stick-it {position: fixed; bottom: 0; width: 100%; height: 200px; background: url("/app-start/img/gradient.png") repeat-x;}
 }
 
 
