@@ -4,7 +4,7 @@ body {margin: 0; font: 20px/1.3em 'Lato'; color: #666;}
 a {color: #249EC3; text-decoration: none;}
 input {font: 16px/1.3em 'Lato'; color: #ccc; appearance: none; outline: none; box-shadow: none; border-radius: 4px; border: 1px solid #ccc; height: 30px; margin: 0 auto 20px auto; padding: 4px; width: 100%;}
 .button {border-radius: 4px; text-align: center; font: 300 26px/1.3em 'Lato'; padding: 8px 0;}
-.large {border: 1px solid #249EC3; background: #249EC3; color: #fff; margin: 0; width: 80%; margin: 0 auto;}
+.large {border: 1px solid #249EC3; background: #249EC3; color: #fff;}
 .small-2nd {border: 1px solid #b3b3b3; color: #249EC3; margin: 0 10px 0 20px; width: 42%;}
 .small {border: 1px solid #249EC3; background: #249EC3; color: #fff; margin: 0 20px 0 0; width: 42%;}
 .left {float: left;}
