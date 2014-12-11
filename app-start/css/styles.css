@@ -2,9 +2,10 @@
 
 body {margin: 0; font: 20px/1.3em 'Lato'; color: #666;}
 a {color: #249EC3; text-decoration: none;}
-.button {border-radius: 4px; text-align: center; font: 300 26px/1.3em 'Lato'; padding: 8px 0; width: 42%;}
-.small-2nd {border: 1px solid #b3b3b3; color: #249EC3; margin: 0 10px 0 20px;}
-.small {border: 1px solid #249EC3; background: #249EC3; color: #fff; margin: 0 20px 0 0;}
+.button {border-radius: 4px; text-align: center; font: 300 26px/1.3em 'Lato'; padding: 8px 0;}
+.large {border: 1px solid #249EC3; background: #249EC3; color: #fff; margin: 0 20px 0 0; width: 90%;}
+.small-2nd {border: 1px solid #b3b3b3; color: #249EC3; margin: 0 10px 0 20px; width: 42%;}
+.small {border: 1px solid #249EC3; background: #249EC3; color: #fff; margin: 0 20px 0 0; width: 42%;}
 .left {float: left;}
 .right {float: right;}
 .center {text-align: center;}
@@ -14,7 +15,7 @@ a {color: #249EC3; text-decoration: none;}
 .facebook {width: 100%;}
 
 @media all and (max-width:600px) and (min-width:220px) {
-  header {width: 90%; margin: 80px auto 30px auto; text-align: center; background: green;}
+  header {width: 90%; margin: 80px auto 30px auto; text-align: font-size: 24px; font-weight: 300;}
   ul {width: 90%; margin: 0 auto 30px auto;}
   li {margin: 0 0 16px 0;}
   .sign-in-up {margin: 0 auto; width: 100%;}
