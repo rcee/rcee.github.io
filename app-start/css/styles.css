@@ -21,7 +21,7 @@ input {width: 80%; color: #ccc; appearance: none; outline: none; box-shadow: non
   ul {width: 90%; margin: 0 auto 30px auto;}
   li {margin: 0 0 16px 0;}
   .sign-in-up {margin: 0 auto; width: 100%;}
-  .sign-in {margin: 0 auto; width: 80%; float: left;}
+  .sign-in {margin: 0 auto; width: 80%; float: left; background: green;}
   .fb {margin: 0 8px -8px 0;}
 }
 
