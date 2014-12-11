@@ -14,9 +14,9 @@ input {font: 16px/1.3em 'Lato'; color: #ccc; appearance: none; outline: none; bo
 .divider {background: url("/app-start/img/bg-hr.png") repeat-x; width: 100%; text-align: center; margin: 20px 0; font-weight: 300;}
 .divider span {background: #fff; padding: 0 4px;}
 .facebook {width: 100%;}
-.narrow {text-align: center; margin: -20px 20px 0 20px;}
+.narrow {text-align: center; margin: -30px 14px 0 14px;}
 .inactive {opacity: 0.3; filter: alpha(opacity=30);}
-.fixer {width: 80%; margin: 120px auto 0 auto;}
+.fixer {width: 80%; margin: 110px auto 0 auto;}
 
 @media all and (max-width:600px) and (min-width:220px) {
   header {width: 90%; margin: 80px auto 30px auto; text-align: center; font-size: 34px; font-weight: 300;}
