@@ -15,7 +15,7 @@ input {font: 16px/1.3em 'Lato'; color: #ccc; appearance: none; outline: none; bo
 .divider span {background: #fff; padding: 0 4px;}
 .facebook {width: 100%;}
 .narrow {text-align: center; margin: -60px 14px 0 14px;}
-.inactive {background: #bde2ed;}
+.inactive {background: #bde2ed; border: #bde2ed;}
 .fixer {width: 80%; margin: 90px auto 0 auto;}
 
 @media all and (max-width:600px) and (min-width:220px) {
