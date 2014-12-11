@@ -11,7 +11,7 @@ input {font: 16px/1.3em 'Lato'; color: #ccc; appearance: none; outline: none; bo
 .right {float: right;}
 .center {text-align: center;}
 .font-small {font-size: 16px;}
-.divider {background: url("/app-start/img/bg-hr.png") repeat-x; width: 90%; text-align: center; margin: 20px 0; font-weight: 300;}
+.divider {background: url("/app-start/img/bg-hr.png") repeat-x; width: 100%; text-align: center; margin: 20px 0; font-weight: 300;}
 .divider span {background: #fff; padding: 0 4px;}
 .facebook {width: 100%;}
 
